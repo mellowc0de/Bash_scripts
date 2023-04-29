@@ -1,6 +1,6 @@
 # Bash_scripts
 
-Author:         Adam Ray Alcala
+Author:         Adam Ray Alcala \n
 Date Created:   2023
 Last Modified:  xx/xx/xxxx
 
