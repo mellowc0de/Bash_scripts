@@ -22,6 +22,7 @@ Script Starter Template
 \# Usage <br>
 \# first_script <br>
 <br>
+This template will be used in all bash scripts.
 ---
 TO DO:
 
