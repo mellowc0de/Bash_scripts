@@ -7,7 +7,21 @@ Adam Ray Alcala  | xx/xx/xxxx  | 04/29/2023
 Description:    Bash scripting repository
 
 Usage:          This will be used as a go to repo for other use cases and projects
+---
+Script Starter Template
 
+\#!/bin/bash <br>
+
+\# Author:         Adam Ray Alcala <br>
+\# Date Created:   04/29/2023 <br>
+\# Last Modified:  04/29/2023 <br>
+
+\# Description <br>
+\# Prints \"This is my first script\" to the terminal <br>
+
+\# Usage <br>
+\# first_script <br>
+<br>
 ---
 TO DO:
 
