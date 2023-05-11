@@ -24,7 +24,7 @@ Script Starter Template
 <br>
 This template will be used in all bash scripts. 
 
-For full instructions of the use of this repo, please follow the GitHub Wiki located at [Bash Wiki](Home)
+For full instructions of the use of this repo, please follow the GitHub Wiki located at [Bash Wiki](https://github.com/mellowc0de/Bash_scripts/wiki)
 
 ---
 TO DO:
