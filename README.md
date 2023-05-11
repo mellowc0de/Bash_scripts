@@ -22,7 +22,10 @@ Script Starter Template
 \# Usage <br>
 \# first_script <br>
 <br>
-This template will be used in all bash scripts.
+This template will be used in all bash scripts. 
+
+For full instructions of the use of this repo, please follow the GitHub Wiki located at [Bash Wiki](Home)
+
 ---
 TO DO:
 
